@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Renseigner les informations d'identification GitLab et Bitbucket
